@@ -15,4 +15,5 @@ class School
   def grade 
     @roster= grade
   end
+  def sort
 end
